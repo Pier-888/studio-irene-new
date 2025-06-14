@@ -10,30 +10,21 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: irene-orlandelli
 */
 body {
-	padding: 2rem;
-	font-family: -apple-system, BlinkMacSystemFont, "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+	
+	p {
+    margin-bottom: 20px; /* Imposta uno spazio di 20px tra i paragrafi */
+}
 }
 
-h1 {
-	font-size: 16px;
-	margin-top: 0;
-}
+/* Seleziona container o sezioni che limitano la larghezza */
+.contenitore, .container, .section {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important
+    margin: 0 auto !important;
+	
+	}
 
-p {
-	color: rgb(107, 114, 128);
-	font-size: 15px;
-	margin-bottom: 10px;
-	margin-top: 5px;
-}
-
-.card {
-	max-width: 620px;
-	margin: 0 auto;
-	padding: 16px;
-	border: 1px solid lightgray;
-	border-radius: 16px;
-}
-
-.card p:last-child {
-	margin-bottom: 0;
-}
