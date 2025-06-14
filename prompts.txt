@@ -1,0 +1,1 @@
+modifica il menù in alto eliminando i link contatti e blog e inserendo un bottone "Scrivimi su Whatsapp"  con il loghino di Whatsapp che fa redirect direttamente al numero Whatsapp

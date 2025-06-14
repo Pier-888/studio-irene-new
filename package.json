@@ -1,0 +1,16 @@
+{
+  "name": "studio-orlandelli",
+  "version": "1.0.0",
+  "description": "Irene Orlandelli Psicologa - Psicologa e Psicoterapeuta a Milano",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build complete - static site ready'",
+    "start": "python3 -m http.server 3000",
+    "dev": "python3 -m http.server 3000"
+  },
+  "keywords": ["Psicologa Milano", "Psicoterapeuta a Milano", "Terapia di coppia a Milano", " Psicologa Infantile", "Psicologo per Ansia", "Psicologo per bambini", "Psicoanalista Milano", "Psicoterapeuta cognitivo comportamentale Milano", "Aiuto Psicologico"],
+  "author": "Irene Orlandelli",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
