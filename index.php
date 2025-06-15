@@ -275,8 +275,11 @@ get_header(); ?>
                         <i class="fa-solid fa-handshake text-accent text-2xl"></i>
                     </div>
                     <h3 class="text-xl font-bold mb-4 text-primary">Difficoltà relazionali nei Giovani Adulti</h3>
-                    <p class="mb-4">Un supporto per navigare il complesso mondo delle relazioni.</p>
-                    <p class="text-gray-600">Le relazioni sono il cuore della nostra vita: familiari, amicali, sentimentali o professionali. Per i giovani adulti, questo periodo di transizione può essere ricco di sfide...</p>
+               <p>Familiare, amicali, sentimentali o professionali: per i giovani adulti questo periodo di transizione può essere ricco di sfide, tra scelte di vita, indipendenza economica ed emotiva e il desiderio di costruire legami autentici.</p>
+        <p>Spesso ci si sente spaesati davanti a nuovi equilibri: come gestire un conflitto in famiglia mantenendo il rispetto reciproco? Come rafforzare un’amicizia che sembra vacillare? Come vivere una storia d’amore senza sacrificare la propria identità?</p>
+        <p>Durante le consulenze esploreremo i tuoi pattern relazionali: individueremo convinzioni e comportamenti che ti limitano, potenzieremo le tue risorse comunicative e imparerai a esprimere bisogni e desideri con chiarezza e sicurezza.</p>
+        <p>Immagina di guardare ai tuoi rapporti con fiducia, riconoscendo il valore di ogni legame, creando confini sani e costruendo relazioni più autentiche e appaganti.</p>
+        <a href="#" class="cta">Prenota la tua consulenza</a>
                 </div>
                 
                 <!-- Service Card 2 -->
@@ -285,18 +288,35 @@ get_header(); ?>
                         <i class="fa-solid fa-graduation-cap text-accent text-2xl"></i>
                     </div>
                     <h3 class="text-xl font-bold mb-4 text-primary">Difficoltà Universitarie</h3>
-                    <p class="mb-4">Affronta gli studi con serenità e determinazione.</p>
-                    <p class="text-gray-600">Affrontare l'università può essere una sfida complessa e stressante, soprattutto quando ci si trova a fronteggiare situazioni come il blocco negli studi...</p>
+                    <p>Quando ogni pagina di appunti sembra un muro invalicabile e la motivazione svanisce di fronte a esami e scadenze, è facile sentirsi sopraffatti.</p>
+        <p>Durante le consulenze potremo:</p>
+        <ul>
+            <li>- Analizzare le radici del blocco (ansia da prestazione, paura del fallimento, difficoltà organizzative);</li>
+            <li>- Sviluppare strategie personalizzate di pianificazione e gestione del tempo;</li>
+            <li>- Rafforzare le risorse emotive con tecniche di rilassamento e mindfulness;</li>
+            <li>- Lavorare sull’autostima riconoscendo ogni piccolo successo.</li>
+        </ul>
+        <p>Immagina di affrontare il prossimo esame con chiarezza mentale, determinazione e serenità, consapevole delle tecniche che hai sperimentato insieme a un professionista.</p>
+        <a href="#" class="cta">Prenota ora il tuo incontro</a>
                 </div>
-                
-                <!-- Service Card 3 -->
+                         <!-- Service Card 3 -->
                 <div class="bg-white rounded-xl shadow-lg p-6 service-card">
                     <div class="w-16 h-16 rounded-full bg-accent bg-opacity-10 flex items-center justify-center mb-6">
                         <i class="fa-solid fa-briefcase text-accent text-2xl"></i>
                     </div>
                     <h3 class="text-xl font-bold mb-4 text-primary">Ansia da Performance sul Lavoro</h3>
                     <p class="mb-4 italic">Affronta le sfide professionali con sicurezza e serenità.</p>
-                    <p class="text-gray-600">Il mondo del lavoro può essere un contesto stimolante, ma anche fonte di pressione e stress, soprattutto per i giovani adulti...</p>
+                    <p class="text-gray-600">Il mondo del lavoro può essere un contesto stimolante, ma anche fonte di pressione e stress.</p>
+					<p>Ti capita di chiederti come avanzare nella carriera senza sacrificare il benessere personale o di sentire il peso dell’impostor syndrome?</p>
+        <p>In consulenza potremo:</p>
+        <ul>
+            <li>- Individuare le fonti di stress e progettare strategie di coping mirate;</li>
+            <li>- Rafforzare la tua assertività per comunicare bisogni e limiti;</li>
+            <li>- Sviluppare un piano di crescita professionale allineato a competenze e valori;</li>
+            <li>- Integrare pratiche di mindfulness e tecniche di rilassamento rapide.</li>
+        </ul>
+  <p>Immagina di affrontare la tua giornata lavorativa con senso di padronanza e leggerezza, con gli strumenti giusti per gestire imprevisti e sfide.</p>
+        <a href="#" class="cta">Prenota la tua consulenza</a>
                 </div>
                 
                 <!-- Service Card 4 -->
