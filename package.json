@@ -5,12 +5,14 @@
   "main": "index.html",
   "scripts": {
     "build": "echo 'Build complete - static site ready'",
-    "start": "python3 -m http.server 3000",
-    "dev": "python3 -m http.server 3000"
+    "start": "npx serve -s . -l 3000",
+    "dev": "npx serve -s . -l 3000"
   },
   "keywords": ["Psicologa Milano", "Psicoterapeuta a Milano", "Terapia di coppia a Milano", " Psicologa Infantile", "Psicologo per Ansia", "Psicologo per bambini", "Psicoanalista Milano", "Psicoterapeuta cognitivo comportamentale Milano", "Aiuto Psicologico"],
   "author": "Irene Orlandelli",
   "license": "MIT",
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
 }
